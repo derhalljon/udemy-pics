@@ -1,4 +1,8 @@
 function ImageList() {
-    return <div>App</div>;
+
+    return <div>Image List</div>;
+
 }
+
+
 export default ImageList;
